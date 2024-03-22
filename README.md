@@ -1,8 +1,6 @@
 # WE Module 3 - Generative AI Coursework
 The repository comprises of assignment work from GenAI classes of Women Engineer Program.
 
-# Assignments Overview
-
 ## Assignment 01
 Pick any non-trivial problem statement from your computational thinking course and ask genAI to solve it. Iterate upon its solution to apply our principles of clean code.
 
