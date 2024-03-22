@@ -1,7 +1,7 @@
 # WE Module 3 - Generative AI Coursework
 The repository comprises of assignment work from GenAI classes of Women Engineer Program.
 
-### Assignment 01 : Computational Thinking
+### * Assignment 01 : Computational Thinking
 Pick any non-trivial problem statement from your computational thinking course and ask genAI to solve it. Iterate upon its solution to apply our principles of clean code.
 
 My topic - Kaprekar's Constant
