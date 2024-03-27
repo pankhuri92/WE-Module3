@@ -1,0 +1,50 @@
+
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{url}
+
+\title{Developing strategies for 'The Diamond Game' with GenAI}
+\author{Pankhuri Asthana}
+\date{March 2024}
+\begin{document}
+\maketitle
+
+\section{Introduction}
+
+This report comprises of the attempt to teach Gen AI a completely new game, discuss \& develop strategies with it to win and code for the same. 
+
+\section{Problem Statement}
+Rule of the diamond game -\\
+1. Each player gets a suit of cards other than the diamond suit. \\
+2. The diamond cards are then shuffled and put on auction one by one. \\
+3. All the players must bid with one of their own cards face down. \\
+4. The banker gives the diamond card to the highest bid, i.e. the bid with the most points. \\
+5. The winning player gets the points of the diamond card to their column in the table. If there are multiple players that have the highest bid with the same card, the points from the diamond card are divided equally among them. \\
+6. The player with the most points wins at the end of the game.
+
+
+\section{Teaching Gen AI the game}
+I firstly tried to explain to it about the game in the most detailed way along with rules and an example.\\
+\\
+"It's a game played by 2 or 3 players. In the standard 3-player game, each gets a non-diamond suit of cards (i.e., hearts, clubs, spades). The 2-player one is a special version of the standard 3-player game where one of the non-diamond suit is completely removed. Diamond suit is considered as the trump suit, the points/price to be won. The diamonds are shuffled and kept face down as a draw pile. The non diamonds represent currency to bid for the price of diamond cards. Now players take one of their cards and bid in a close bid system. All the bids are uncovered at once and the set of highest bid takes or shares the price. If there's one highest bid then that gets the price. If more than one gets the same bid, the price of diamond is shared.\\
+Example:- 
+A-ace of hearts, B-3 of clubs, C-ace of spades bid for 5 of diamonds, then A \& C get 2.5 each pf diamond."\\
+\\
+I made sure that it had understood the game well and then asked for possible strategies for it. In order to make it more clear I asked the AI to play the game with me and I'll help learn more about it alongside.
+While playing there were certain mistakes from the end of AI, which I did correct and made the points clear. Towards the end I asked about the strategies it had used during the game.
+
+\section{Iterating upon strategy}
+
+I had asked the AI about strategies firstly after describing the rules. As much reasonable they seemed, I felt some more points could have been there. So I made it play the game with me, alongside which I kept correcting the mistakes and worked on clarity. \\
+After the game, I asked it to reveal the strategies it had used to win, and this time it had taken into consideration some situation flexible strategies too. Of course there are possibilties of non conventional hacks at human end but the results form genAI seemed fair enough.\\
+Finally I asked it to come up with a code for the game using the approach. But the response on this one wasn't so good. The code was quite basic and not fulfilling at all. I tried to correct with certain prompts and suggestions but it showed no significant improvement.
+
+ \section{Analysis and Conclusion}
+I realised that even though AI tools learn and grasp new things easily, they fail to implement the problems with similar excellence. \
+There are setbacks in dealing with complex situations, amidst which if they are corrected on giving wrong results, they accept it as a 'fact' without cross verifying. Although training them with examples and more clear prompts gives a satisfactory result.
+
+
+ \section{Transcripts}
+ ChatGPT: \url{https://chat.openai.com/share/da9faa04-dcee-4502-bd57-339159833b35} 
+ \end{document}
+
