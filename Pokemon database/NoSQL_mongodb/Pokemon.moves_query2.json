@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "663b293cf90d6002432717aa"
+  },
+  "name": "Wing Attack",
+  "power": 65,
+  "type": "Flying",
+  "learned_by": [
+    "663b2825f90d60024327179c"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b293cf90d6002432717ab"
+  },
+  "name": "Headbutt",
+  "power": 70,
+  "type": "Normal",
+  "learned_by": [
+    "663b2825f90d60024327179b"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b293cf90d6002432717ac"
+  },
+  "name": "Return",
+  "power": 100,
+  "type": "Normal",
+  "learned_by": [
+    "663b2825f90d60024327179b",
+    "663b2825f90d60024327179c",
+    "663b2825f90d60024327179a",
+    "663b2825f90d600243271798",
+    "663b2825f90d600243271799"
+  ]
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663b28bcf90d6002432717a0"
+  },
+  "type": "Grass",
+  "strengths": "Water",
+  "weaknesses": "Fire,Flying"
+},
+{
+  "_id": {
+    "$oid": "663b28bcf90d6002432717a1"
+  },
+  "type": "Fire",
+  "strengths": "Grass",
+  "weaknesses": "Water"
+},
+{
+  "_id": {
+    "$oid": "663b28bcf90d6002432717a2"
+  },
+  "type": "Water",
+  "strengths": "Fire",
+  "weaknesses": "Grass"
+},
+{
+  "_id": {
+    "$oid": "663b28bcf90d6002432717a3"
+  },
+  "type": "Normal",
+  "strengths": "None",
+  "weaknesses": "None"
+},
+{
+  "_id": {
+    "$oid": "663b28bcf90d6002432717a4"
+  },
+  "type": "Flying",
+  "strengths": "Grass",
+  "weaknesses": "None"
+}]

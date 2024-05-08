@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "663b2825f90d600243271798"
+  },
+  "name": "Bulbasaur",
+  "primary_type": "Grass",
+  "secondary_type": "Poison",
+  "moves": [
+    "663b293cf90d6002432717a6",
+    "663b293cf90d6002432717a9",
+    "663b293cf90d6002432717ac"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b2825f90d600243271799"
+  },
+  "name": "Charmander",
+  "primary_type": "Fire",
+  "secondary_type": "None",
+  "moves": [
+    "663b293cf90d6002432717a6",
+    "663b293cf90d6002432717a8",
+    "663b293cf90d6002432717ac"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b2825f90d60024327179a"
+  },
+  "name": "Squirtle",
+  "primary_type": "Water",
+  "secondary_type": "None",
+  "moves": [
+    "663b293cf90d6002432717a6",
+    "663b293cf90d6002432717a7",
+    "663b293cf90d6002432717ac"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b2825f90d60024327179b"
+  },
+  "name": "Eevee",
+  "primary_type": "Normal",
+  "secondary_type": "None",
+  "moves": [
+    "663b293cf90d6002432717a6",
+    "663b293cf90d6002432717ab",
+    "663b293cf90d6002432717ac"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b2825f90d60024327179c"
+  },
+  "name": "Pidgey",
+  "primary_type": "Normal",
+  "secondary_type": "Flying",
+  "moves": [
+    "663b293cf90d6002432717a6",
+    "663b293cf90d6002432717aa",
+    "663b293cf90d6002432717ac"
+  ]
+}]

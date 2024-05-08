@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "663b293cf90d6002432717a6"
+  },
+  "name": "Tackle",
+  "power": 35,
+  "type": "Normal",
+  "learned_by": [
+    "663b2825f90d60024327179b",
+    "663b2825f90d60024327179c",
+    "663b2825f90d60024327179a",
+    "663b2825f90d600243271798",
+    "663b2825f90d600243271799"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b293cf90d6002432717a7"
+  },
+  "name": "Water Gun",
+  "power": 40,
+  "type": "Water",
+  "learned_by": [
+    "663b2825f90d60024327179a"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b293cf90d6002432717a8"
+  },
+  "name": "Ember",
+  "power": 40,
+  "type": "Fire",
+  "learned_by": [
+    "663b2825f90d600243271799"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b293cf90d6002432717a9"
+  },
+  "name": "Vine Whip",
+  "power": 40,
+  "type": "Grass",
+  "learned_by": [
+    "663b2825f90d600243271798"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b293cf90d6002432717aa"
+  },
+  "name": "Wing Attack",
+  "power": 65,
+  "type": "Flying",
+  "learned_by": [
+    "663b2825f90d60024327179c"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b293cf90d6002432717ab"
+  },
+  "name": "Headbutt",
+  "power": 70,
+  "type": "Normal",
+  "learned_by": [
+    "663b2825f90d60024327179b"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663b293cf90d6002432717ac"
+  },
+  "name": "Return",
+  "power": 100,
+  "type": "Normal",
+  "learned_by": [
+    "663b2825f90d60024327179b",
+    "663b2825f90d60024327179c",
+    "663b2825f90d60024327179a",
+    "663b2825f90d600243271798",
+    "663b2825f90d600243271799"
+  ]
+}]
